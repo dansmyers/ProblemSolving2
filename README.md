@@ -161,8 +161,8 @@ You will receive satisfactory credit on an exam if you receive 80% of the total 
 |------------------------------------------------|------------------------------------------|
 | One project beyond the one you're allowed to drop | Fraction of a letter grade (e.g. B to B-)       |
 | Additional projects                            | A full letter grade (e.g. B to C) for each one     |
-| The midterm exam                                 | A fraction of a letter grade (50% - 80%) or a full letter grade (less than 50%)                    |
-| The final exam                                 | A fraction of a letter grade (50% - 79%) or a full letter grade (less than 50%)                      |
+| The midterm exam                                 | A fraction of a letter grade (score of 50% - 79%) or a full letter grade (score of less than 50%)                    |
+| The final exam                                 | A fraction of a letter grade (score of 50% - 79%) or a full letter grade (score of less than 50%)                      |
 | Failure to complete all reflective assignments | A fraction of a letter grade                      |
 | Failure to submit an assignment                | Double the regular penalty for an unsatisfactory submission |
 
