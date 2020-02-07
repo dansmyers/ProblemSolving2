@@ -4,8 +4,11 @@
 
 This lab will use `ArrayList` to create a Snake game. We're going to take advantage of the `ArrayList`'s ability to add and remove elements and grow over the life of the program, which we couldn't do with regular 1-D arrays.
 
-I recommend creating a new project in BlueJ, then adding `StdDraw` to it using Edit --> Add Class From File. Create three more classes:
-`Square`, `Snake`, and `SnakeGame`.
+Get the code from GitHub using the repo link that I've sent you. The repo contains `StdDraw.java`. We're going to create three new classes:
+
+- `SnakeGame`: the driver for the program with the main game loop
+- `Square`: a square on the screen with a position and color
+- `Snake`: the snake object, which uses an `ArrayList<Square>` for its body segments
 
 ## The Main Game Loop
 
