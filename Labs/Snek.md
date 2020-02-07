@@ -39,6 +39,8 @@ public class SnakeGame {
             }
             
             // Draw
+            StdDraw.clear();
+            
             snake.draw();
             pellet.draw();
              
