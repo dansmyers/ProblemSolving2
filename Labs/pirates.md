@@ -5,19 +5,19 @@ A group of pirates has discovered a buried treasure of 100 gold
 pieces and they need to divide it. Such matters are, of course,
 governed by the Pirates' Code, which has strict rules:
 
-    1. The first pirate will propose a division of the gold pieces.
+1. The first pirate will propose a division of the gold pieces.
     
-    2. All of the pirates vote on accepting or rejecting the
-       proposed distribution.
+2. All of the pirates vote on accepting or rejecting the 
+proposed distribution.
     
-    3. If the vote succeeds, the treasure is divided and the process
-       ends. Ties are broken *** in favor *** of the proposer.
+3. If the vote succeeds, the treasure is divided and the process
+   ends. Ties are broken *** in favor *** of the proposer.
        
-    4. If the vote fails, the proposer is thrown overboard and the
-       next pirate makes a proposal. The proposal order is 
-       alphabetical.
+4. If the vote fails, the proposer is thrown overboard and the
+   next pirate makes a proposal. The proposal order is 
+   alphabetical.
        
-    5. This process continues until the treasure is divided.
+5. This process continues until the treasure is divided.
     
 Pirates want to survive, but are also very greedy and want as much
 gold as possible.
