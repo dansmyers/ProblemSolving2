@@ -35,7 +35,7 @@ Sort the following array:
 
     2 7 5 3 1 9 4
     
-Choose the last element to be the pivot:
+A common strategy is to choose the last element to be the pivot:
 
     2 7 5 3 1 9 4
                 ^
@@ -43,40 +43,47 @@ Choose the last element to be the pivot:
                 |
               pivot
               
-Use two indices, l and r to exchange items. Initally, l = 0 and
-r = a.length - 2 (the next-to-last element)
+Use two indices, `l` and `r` to exchange items. Initally, `l = 0` and
+`r = a.length - 2` (the next-to-last element)
 
+```
 2 7 5 3 1 9 4
 ^         ^ ^
 |         | |
 |         | |
 l         r |
            pivot
+```
 
-Scan from the left until l points to an item greater than the pivot.
-Then scan from the right until r points to an item less than the
+Scan from the left until `l` points to an item greater than the pivot.
+Then scan from the right until `r` points to an item less than the
 pivot.
 
+```
 2 7 5 3 1 9 4
   ^     ^   ^
   |     |   |
   |     |   |
   l     r   |
            pivot
- 
+```
+
 Swap the two items:
 
+```
 2 1 5 3 7 9 4
   ^     ^   ^
   |     |   |
   |     |   |
   l     r   |
            pivot
-        
-Repeat until l == r, then swap the pivot into its correct position.
+```
+
+Repeat until `l == r`, then swap the pivot into its correct position.
 
 Partition pseudocode:
 
+```
     l = 0
     r = a.length - 2
 
@@ -93,9 +100,10 @@ Partition pseudocode:
     }
 
     swap a[l] and the pivot
+```
 
 The pivot is now in its correct position and we can recursively sort
-the left and right halves.
+the left and right parts of the array.
 
 
 Practice
@@ -104,18 +112,18 @@ Sort the following list
 
     5 4 9 3 7 2 6 1
     
-    First time: do the partition step casually, just reorder the list
-    without worrying about pointers. Work all the way through the
-    sort process.
-    
-    Second time: repeat the first pass of the algorithm using
-    pointers.
+First, do the partition step casually: just reorder the list
+without worrying about pointers. Work all the way through the
+sort process.
+
+Next, perform the first pass of the algorithm using
+pointers.
     
 Now try sorting this list:
 
     1 2 3 4 5
     
-    What happens to QuickSort when it processes a sorted list?
+**What happens to QuickSort when it processes a sorted list**?
 
 
 Merge Sort
@@ -167,7 +175,7 @@ The left half is merge sorted first
     
         1 2 6 8
         
-The left half is now sorted, next sort the right half:
+The left half is now sorted. Sort the right half:
 
     Split the right half into its own left and right parts
     
@@ -192,46 +200,56 @@ sorted list
 How to Do the Merge
 -------------------
 
-    1 2 6 8        3 5 7 9
-    ^              ^
-    |              |
-  left           right
-  
-Choose the smallest element of (left, right) and make it the first
+```
+1 2 6 8        3 5 7 9
+^              ^
+|              |
+left           right
+```
+
+Choose the smallest element of (`left`, `right`) and make it the first
 output
 
-    output: 1
+```
+output: 1
 
-    1 2 6 8        3 5 7 9
-      ^            ^
-      |            |
-    left         right
-    
-Repeat, choosing the smallest element of (left, right)
+1 2 6 8        3 5 7 9
+  ^            ^
+  |            |
+left         right
+```
 
-    output: 1 2
+Repeat, choosing the smallest element of (`left`, `right`)
 
-    1 2 6 8        3 5 7 9
-        ^          ^
-        |          |
-      left       right
-  
-Now the right element is the smallest of (left, right)
+```
+output: 1 2
 
-    output: 1 2 3
+1 2 6 8        3 5 7 9
+    ^          ^
+    |          |
+  left       right
+```
 
-    1 2 6 8        3 5 7 9
-        ^            ^
-        |            |
-      left         right
-      
+Now the right element is the smallest of (`left`, `right`)
+
+```
+output: 1 2 3
+
+1 2 6 8        3 5 7 9
+    ^            ^
+    |            |
+  left         right
+``` 
 Et cetera...
 
-
+Here is the pseudocode implementation of the merge method
+```
 merge(sortedLeft, sortedRight) {
 
     left = 0
     right = 0
+    
+    output = []
     
     while (left < sortedLeft.length and right < sortedRight.length) {
     
@@ -259,5 +277,8 @@ merge(sortedLeft, sortedRight) {
         append sortedRight[right] to output
         right++
     }
+    
+    return output
 
 }
+```
