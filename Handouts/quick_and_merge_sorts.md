@@ -3,6 +3,8 @@ QuickSort
 
 Basic Strategy
 --------------
+
+```
 quicksort(a, left, right) {
 
     if (right - left <= 0) {  // Base case
@@ -19,7 +21,7 @@ quicksort(a, left, right) {
     quicksort(a, left, pivot - 1)
     quicksort(a, pivot + 1, right)
 }
-
+```
 
 Partition
 ---------
@@ -122,6 +124,7 @@ Merge Sort
 Basic Strategy
 --------------
 
+```
 mergesort(a) {
 
     if (a.length == 1) {  // Base case
@@ -136,6 +139,7 @@ mergesort(a) {
     
     output = merge(sortedLeft, sortedRight)
 }
+```
 
 Example
 -------
