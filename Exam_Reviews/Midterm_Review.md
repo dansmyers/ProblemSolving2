@@ -136,14 +136,8 @@ recursive methods. Examples:
     
 Recurrence Relations
 --------------------
-Show that *f*(*n*) = lg *n* satisfies the relation
-
-*T*(*n*) = *T*(*n* / 2) + 1
+Show that *f*(*n*) = lg *n* satisfies the relation *T*(*n*) = *T*(*n* / 2) + 1.
     
-Show the *f*(*n*) = 2<sup>*n*</sup> - 1 satisfies the relation
-
-*T*(*n*) = 2 * T(*n* - 1) + 1
+Show the *f*(*n*) = 2<sup>*n*</sup> - 1 satisfies the relation *T*(*n*) = 2 * T(*n* - 1) + 1.
     
-Shpw that *f*(*n*) = *n* lg *n* satisfies the relation
-
-*T*(*n*) = 2 * T(*n* / 2) + *n*
+Shpw that *f*(*n*) = *n* lg *n* satisfies the relation *T*(*n*) = 2 * T(*n* / 2) + *n*.
