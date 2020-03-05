@@ -136,7 +136,7 @@ recursive methods. Examples:
     
 Recurrence Relations
 --------------------
-Show that f(n) = log n satisfies the relation
+Show that f(n) = lg n satisfies the relation
 
     T(n) = T(n / 2) + 1
     
