@@ -104,14 +104,14 @@ for (int i = 0; i < a.length; i++) {
 Sorting
 -------
 Know the three quadratic sorting algorithms: selection, bubble,
-and insertion. Be able to apply them to example lists. I WILL NOT ask
+and insertion. Be able to apply them to example lists. I **will not** ask
 you to write their code.
 
-Make an argument that selection sort is O(N<sup>2</sup>).
+Make an argument that selection sort is O(n<sup>2</sup>).
 
-Know that practical sorting algorithms are O(N log N) and that this
+Know that practical sorting algorithms are O(n lg n) and that this
 is a lower-bound for comparison-based sorting: there is no comparison
-algorithm that has BETTER worst-case performance that O(N log N).
+algorithm that has **better** worst-case performance that O(n lg n).
 
 Be able to apply the quicksort partition operation to an example array.
 
