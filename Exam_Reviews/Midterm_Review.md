@@ -28,7 +28,7 @@ private instance variables and a specified set of methods.
 - For example, write a `Book` class with `private` `author` and `title`
     fields, `get` methods for each field, and a `toString` method.
     
--Think of other real-world objects that you might use as class
+- Think of other real-world objects that you might use as class
     templates.
     
 
