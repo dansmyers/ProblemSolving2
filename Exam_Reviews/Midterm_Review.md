@@ -1,4 +1,4 @@
-Midterm Exam Review -- CMS 170 Fall 2020
+Midterm Exam Review: CMS 170 Fall 2020
 ========================================
 
 2-D Arrays
