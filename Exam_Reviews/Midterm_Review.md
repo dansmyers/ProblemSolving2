@@ -48,7 +48,7 @@ its backing storage for the elements in the list. Know how to
     
 Be prepared to write pseudocode implementations of these methods.
     
-What are the comoplexities (in Big-O) notation of each of the `ArrayList` methods?
+What are the worst-case complexities (in Big-O notation) of each of the `ArrayList` methods?
 
 Make an argument, in your own words, for why appending to an `ArrayList` requires
 O(1) time on average.
