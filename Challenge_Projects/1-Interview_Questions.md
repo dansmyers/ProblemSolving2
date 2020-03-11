@@ -6,7 +6,7 @@ If you are applying for a programming job, you may be required to perform a **TE
 up a summary and solution to an example tech interview question and add it to a respository we're building.
 
 These questions typically exercise your knowledge of core data structures, algorithms, and programming. 
-For example, here's an example question I pulled almost at random from the Internet:
+For example, here's a question I pulled almost at random from the Internet:
 
 >A number is represented in a linked list such that each digit corresponds to a node in the list. Add 1 to it. 
 >
