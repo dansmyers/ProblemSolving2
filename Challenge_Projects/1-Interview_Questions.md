@@ -10,7 +10,7 @@ For example, here's an example question I pulled almost at random from the Inter
 
 >A number is represented in a linked list such that each digit corresponds to a node in the list. Add 1 to it. 
 >
->For example, 1999 would be represented as the list 
+>For example, the number 1999 would be represented as the list 
 > 
 > (1 --> 9 --> 9 --> 9)
 >
