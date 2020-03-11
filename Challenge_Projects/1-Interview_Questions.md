@@ -8,9 +8,9 @@ up a summary and solution to an example tech interview question and add it to a 
 These questions typically exercise your knowledge of core data structures, algorithms, and programming. 
 For example, here's an example question I pulled almost at random from the Internet:
 
-> A number is represented in a linked list such that each digit corresponds to a node in the list. Add 1 to it. 
+>A number is represented in a linked list such that each digit corresponds to a node in the list. Add 1 to it. 
 >
-> For example, 1999 would be represented as the list 
+>For example, 1999 would be represented as the list 
 > 
 > (1 --> 9 --> 9 --> 9)
 >
