@@ -35,7 +35,7 @@ can force you to think more carefully about how people learn things.
 
 ## Submission Details
 
-I'll create a GitHub repo that will hold all of your submissions.
+Your submissions will go in this GitHub repo: [dansmyers/InterviewQuestionGuide](https://github.com/dansmyers/InterviewQuestionGuide)
 
 - You'll fork the repo to create your own local copy.
 - Add new files to your fork with the new content for your problems.
