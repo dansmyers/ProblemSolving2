@@ -14,9 +14,9 @@ For example, here's an example question I pulled almost at random from the Inter
 > 
 > (1 --> 9 --> 9 --> 9)
 >
-> adding 1 to it would change the list to
+> Adding 1 to it would change the list to
 >
-> (2 --> 0 --> 0 --> 0).
+> (2 --> 0 --> 0 --> 0)
 
 If you complete this project, your final grade in the class will be increased by one part of a letter (e.g. from B to B+, or B+ to A-).
 
