@@ -62,6 +62,13 @@ There are **many** sites that archive example interview problems (LeetCode and H
 threads with example problems people have received in interviews. Spend some time looking around to find a problem that seems interesting
 and requires some thought to solve.
 
+What makes a good problem?
+
+- It should effectively illustrate how to use a data structure, algorithm, or programming technique. Questions that rely on "tricks" or memorizing obscure facts about programming languages are not good.
+
+- It should require some effort and thinking to arrive at the correct solution. A question like *How do you implement binary search?* is 
+not very good, even though knowledge of binary search is important background knowledge for anyone familiar with algorithms.
+
 **You are allowed to use other sources or references to help develop your solutions**.
 
 ## Submission Format
