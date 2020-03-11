@@ -25,7 +25,7 @@ want me to review your submission before you send it in, so we don't have traffi
 
 The goals of this project are:
 
-- Practicing and research skills and **clear** technical writing
+- Practicing discipline-specific research skills and **clear** technical writing
 
 - Reinforcing the key concepts we've studied in the first half of the class by teaching them to someone else.
 
