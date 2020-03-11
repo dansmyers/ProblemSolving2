@@ -10,7 +10,13 @@ For example, here's an example question I pulled almost at random from the Inter
 
 > A number is represented in a linked list such that each digit corresponds to a node in the list. Add 1 to it. 
 >
-> For example, 1999 would be represented as the list (1 --> 9 --> 9 --> 9) and adding 1 to it would change the list to (2 --> 0 --> 0 --> 0).
+> For example, 1999 would be represented as the list 
+> 
+> (1 --> 9 --> 9 --> 9)
+>
+> adding 1 to it would change the list to
+>
+> (2 --> 0 --> 0 --> 0).
 
 If you complete this project, your final grade in the class will be increased by one part of a letter (e.g. from B to B+, or B+ to A-).
 
