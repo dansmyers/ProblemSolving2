@@ -18,7 +18,7 @@ For example, here's an example question I pulled almost at random from the Inter
 >
 > (2 --> 0 --> 0 --> 0)
 
-If you complete this project, your final grade in the class will be increased by one part of a letter (e.g. from B to B+, or B+ to A-).
+**If you complete this project, your final grade in the class will be increased by one part of a letter** (e.g. from B to B+).
 
 **Your submission is due any time before the end of April 24** (the Friday before the last week of classes). Please plan ahead if you
 want me to review your submission before you send it in, so we don't have traffic jams on the last day.
