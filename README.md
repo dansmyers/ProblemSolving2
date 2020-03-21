@@ -88,9 +88,9 @@ My plan is to dedicate about two weeks to each unit.
 
 | Unit         | Topic                         | Start  |   End  | Deliverable     |
 | -------------|-----------------------------|--------|--------|-----------------|
-| 1            | Hash Tabes          |   3/23 |  4/1 (probably)  | Catch up on ZyBook Questions  |
-| 2            | Lists and Dictionaries      |   4/1 (probably) |  4/15  | Stack-Based Interpreter    |
-| 3            | Classes and Objects         |  4/15  |  End of the Semester  | ???????? |
+| 1            | Hash tables          |   3/23 |  4/1 (probably)  | Catch up on ZyBook questions  |
+| 2            | Stacks and queues     |   4/1 (probably) |  4/15  | Stack-based interpreter    |
+| 3            | Trees         |  4/15  |  End of the Semester  | ???????? (Depends on how far we get)|
 
 ### Final Exam
 
