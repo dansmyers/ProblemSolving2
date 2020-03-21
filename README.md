@@ -1,7 +1,5 @@
 # CMS 170 Spring 2020: COVID-19 Response Plan
 
-## This is a draft. I'll e-mail the class when the final version is ready.
-
 <img src="https://i.chzbgr.com/full/9448823040/hDD42FB11/understand-cdc-s-covid-19-beatles-wanna-hold-hand-cdc-not-advisable-beatles-wanna-hold-hand-cdc-no" width="50%" />
 
 <img src="https://cdn.dopl3r.com//media/memes_files/pj-theberge-atpj-theberge-cdc-wash-your-hands-frequently-neil-diamond-haaaaaands-cdc-coronavirus-is-contagious-neil-diamond-touching-haaaands-cdc-dont-touch-hands-neil-diamond-reaching-ouuuuut-cdc-please-avoid-that-neil-diamond-tou-rnS7Q.jpg" width="50%" />
