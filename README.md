@@ -42,9 +42,9 @@ changes.
 ### Slack
 
 Slack is an instant messaging app that's now widely used as a replacement for e-mail in many companies. I've created a Slack
-channel for our class, `#cms-170-spring-2020`.
+channel for our class, `#cms170-s20`.
 
-Use the invite link posted to Canvas to join the channel. Once you've joined, post a quick intro message and a meme to let me know you've made it.
+Use the invite link posted to Canvas to join the group, then add yourself to the channel. Once you've joined, post a quick intro message and a meme to let me know you've made it.
 
 Slack will be for general discussions, questions about course logistics, check-ins, posting memes and links, etc. It's intended to be a 
 way for us to stay engaged with each other and to provide opportunities for casual question and answer sessions and collaboration.
