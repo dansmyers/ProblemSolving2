@@ -94,8 +94,8 @@ My plan is to dedicate about two weeks to each unit.
 
 ### Final Exam
 
-**The last project will substitute for the final exam**.  We will not have a written final. Giving a written exam remotely
-is tough, and at this point I want to prioritize writing as much code as possible.
+**I haven't decided what to do about the final yet**. Since we skipped the midterm, we should probably do a written final, but I need to
+see how the class is going. I'll have more information on this point after the first unit.
 
 ### Challenge Projects
 
